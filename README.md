@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Web Developer.
 ------------------------
 
-I've long been interested in programming and writing front end codes, and I am glad to have started this journey. I have become quite advanced with HTML and CSS and now onto JAVASCRIPT. And it has been an amazing journey so far.
+I've long been interested in programming and writing front end codes, and I am glad to have started this journey. I have become quite advanced with HTML,CSS,JAVASCRIPT and REACT. And it has been an amazing journey so far.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [joesthomas2003@gmail.com](mailto:joesthomas2003@gmail.com)
