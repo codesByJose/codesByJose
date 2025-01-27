@@ -4,7 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Web Developer.
 ------------------------
 
-I've long been interested in programming and writing front end codes, and I am glad to have started this journey. I have become quite advanced with HTML,CSS,JAVASCRIPT and REACT. And it has been an amazing journey so far.
+
+As a passionate frontend developer, I've been captivated by the world of programming and writing clean, efficient code. With a strong foundation in HTML, CSS, JavaScript, and React, I've had the opportunity to work on various projects that showcase my skills.
+
+My journey as a developer has been nothing short of amazing. From the early days of experimenting with code to the present, where I'm constantly pushing myself to learn and grow, I've fallen deeply in love with the process of creation.
+
+Some of my key skills include:
+
+- HTML5
+- CSS3 
+- JavaScript (including ES6+ syntax)
+- React (including Hooks, Context API)
+
+I'm excited to share my projects and experiences with the GitHub community and look forward to collaborating with fellow developers.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [joesthomas2003@gmail.com](mailto:joesthomas2003@gmail.com)
